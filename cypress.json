@@ -2,8 +2,8 @@
 {
   "projectId": "standalone-test",
   "env": {
-    "baseurl": "https://breakthrough-staging.herokuapp.com/",
     "staging_url": "https://breakthrough-staging.herokuapp.com/",
-    "production_url": "https://breakthrough-production.herokuapp.com/"
+    "production_url": "https://breakthrough-production.herokuapp.com/",
+    "chromeWebSecurity": false
   }
 }
