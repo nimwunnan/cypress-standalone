@@ -1,0 +1,18 @@
+{
+  "energy" : {
+    "slug": "Energy",
+    "staging": "complete",
+    "production": "incomplete"
+  },
+  "food" : {
+    "slug": "Energy",
+    "staging": "complete",
+    "production": "incomplete"
+  },
+    "conservation" : {
+    "slug": "Conservation",
+    "staging": "complete",
+    "production": "incomplete"
+  }
+
+}
